@@ -18,9 +18,5 @@
       </td>
       <td align="center" style="padding=0;width=33%;">
         <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=0x00ctrl&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-      </td>
-      <td align="center" style="padding=0;width=33%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x00ctrl&theme=vue-dark&hide_border=true" />
-         </td>
     </tr>
   </table>
