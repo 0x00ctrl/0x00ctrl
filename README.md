@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/x86%20Assembly-red?style=plastic&logo=assemblyscript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-orange?style=plastic)
 
-<h4>📊GitHub Stats</h4>
+<h4>📊 Stats</h4>
   <table>
     <tr>
       <td align="center" style="padding=0;width=50%;">
