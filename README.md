@@ -9,3 +9,15 @@
 ![Static Badge](https://img.shields.io/badge/GIMP-blue?style=plastic&logo=gimp&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/x86%20Assembly-red?style=plastic&logo=assemblyscript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-orange?style=plastic)
+
+<h4>📊GitHub Stats</h4>
+  <table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=0x00ctrl&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&rank_icon=github" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=0x00ctrl&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      </td>
+    </tr>
+  </table>
