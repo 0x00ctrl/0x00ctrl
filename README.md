@@ -10,6 +10,8 @@
 ![Static Badge](https://img.shields.io/badge/x86%20Assembly-red?style=plastic&logo=assemblyscript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-orange?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=plastic&logo=archlinux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Elastic%20Stack-blue?style=plastic&logo=elasticstack&logoColor=white&labelColor=orange&color=black)
+
 
 
 <h4>📊 Stats</h4>
