@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=plastic&logo=archlinux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Elastic%20Stack-blue?style=plastic&logo=elasticstack&logoColor=white&labelColor=orange&color=black)
 ![Static Badge](https://img.shields.io/badge/pfSense-black?style=plastic&logo=pfsense&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Hyprland-black?style=social&logo=hyprland&logoColor=black&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Hyprland-black?style=plastic&logo=hyprland&logoColor=black&labelColor=blue&color=blue)
 
 
 
