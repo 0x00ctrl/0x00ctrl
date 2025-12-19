@@ -17,11 +17,7 @@
 
 
 <h4>📊 Stats</h4>
-  <table>
-    <tr>
-      <td align="center" style="padding=0;width=33%;">
-        <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=0x00ctrl&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00ctrl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?usersername=0x00ctrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6FF0&icon_color=FF8A00&text_color=FFB74D&bg_color=000000,1A1A00,2B1700" alt="My Github Stats"/>
 
   <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
