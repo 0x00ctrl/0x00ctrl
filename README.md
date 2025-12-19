@@ -24,4 +24,4 @@
     </tr>
   </table>
 
-  <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=brightorange&text_color=black" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
