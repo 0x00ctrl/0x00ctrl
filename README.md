@@ -13,6 +13,8 @@
 ![Static Badge](https://img.shields.io/badge/Elastic%20Stack-blue?style=plastic&logo=elasticstack&logoColor=white&labelColor=orange&color=black)
 ![Static Badge](https://img.shields.io/badge/pfSense-black?style=plastic&logo=pfsense&logoColor=black&labelColor=white&color=white)
 ![Static Badge](https://img.shields.io/badge/Hyprland-black?style=plastic&logo=hyprland&logoColor=black&labelColor=blue&color=blue)
+<img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
+
 
 
 
@@ -28,4 +30,4 @@
       </td>
     </tr>
   </table>
-</div>  <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
+</div>  
