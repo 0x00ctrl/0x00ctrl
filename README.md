@@ -18,6 +18,6 @@
 
 <h4>📊 Stats</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00ctrl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?usersername=0x00ctrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6FF0&icon_color=FF8A00&text_color=FFB74D&bg_color=000000,1A1A00,2B1700" alt="My Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x00ctrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6FF0&icon_color=FF8A00&text_color=FFB74D&bg_color=000000,1A1A00,2B1700" alt="My Github Stats"/>
 
   <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
