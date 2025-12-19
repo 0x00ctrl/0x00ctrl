@@ -23,3 +23,5 @@
         <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=0x00ctrl&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
     </tr>
   </table>
+
+  <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=brightorange&text_color=black" alt="watching_count" />
