@@ -18,15 +18,4 @@
 
 
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00ctrl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="165px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=0x00ctrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6FF0&icon_color=FF8A00&text_color=FFB74D&bg_color=0,1A1A00,2B1700" alt="GitHub Stats" height="165px" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00ctrl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="165px" />
