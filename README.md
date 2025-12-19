@@ -17,5 +17,15 @@
 
 
 <h4>📊 Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00ctrl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x00ctrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6FF0&icon_color=FF8A00&text_color=FFB74D&bg_color=0,1A1A00,2B1700" alt="my Github Stats"/>  <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
+ <div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" style="background-color: #1a1a00; border: 1px solid #ff8a00;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00ctrl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
+      </td>
+      <td align="center" style="background-color: #1a1a00; border: 1px solid #ff8a00;">
+        <img src="https://github-readme-stats.vercel.app/api?username=0x00ctrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6FF0&icon_color=FF8A00&text_color=FFB74D&bg_color=0,1A1A00,2B1700" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>  <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
