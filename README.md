@@ -22,3 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&theme=tokyonight)
 
 ![Metrics](https://metrics.lecoq.io/0x00ctrl?template=classic&base.header=0&gists=1&lines=1&config.timezone=Pakistan%2FKarachi)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x00ctrl&show_icons=true&theme=radical)
