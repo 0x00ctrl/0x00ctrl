@@ -19,7 +19,6 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00ctrl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="165px" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&theme=tokyonight)
 
 ![Metrics](https://metrics.lecoq.io/0x00ctrl?template=classic&base.header=0&gists=1&lines=1&config.timezone=Pakistan%2FKarachi)
