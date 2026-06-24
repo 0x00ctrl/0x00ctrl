@@ -17,8 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/Hyprland-black?style=plastic&logo=hyprland&logoColor=black&labelColor=blue&color=blue)
 <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
 
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1576035)
-
+[![barry0](https://www.hackthebox.eu/badge/image/1576035)](https://www.hackthebox.eu/home/users/profile/1576035)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&theme=tokyonight)
 
