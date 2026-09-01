@@ -27,5 +27,5 @@
 
 [![barry0](https://www.hackthebox.eu/badge/image/1576035)](https://www.hackthebox.eu/home/users/profile/1576035)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
