@@ -27,6 +27,4 @@
 
 [![barry0](https://www.hackthebox.eu/badge/image/1576035)](https://www.hackthebox.eu/home/users/profile/1576035)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&layout=compact" alt="Top Langs" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
