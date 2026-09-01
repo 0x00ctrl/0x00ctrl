@@ -27,5 +27,3 @@
 
 [![barry0](https://www.hackthebox.eu/badge/image/1576035)](https://www.hackthebox.eu/home/users/profile/1576035)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x00ctrl&layout=compact" alt="Top Langs">>
