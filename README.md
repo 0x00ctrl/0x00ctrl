@@ -14,6 +14,7 @@
 ![Parrot Security](https://img.shields.io/badge/parrot_security-%23000000.svg?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED)
 ![Tails](https://img.shields.io/badge/tails-%2356347C.svg?style=for-the-badge&logo=tails&logoColor=white)
 ![Ffmpeg](https://img.shields.io/badge/ffmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
