@@ -18,7 +18,7 @@
 ![Elasticsearch](https://img.shields.io/badge/elastic-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/fortinet-EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfsense-212121.svg?style=for-the-badge&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfsense-%23212121.svg?style=for-the-badge&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=0x00ctrl&color=orange&text_color=black" alt="watching_count" />
