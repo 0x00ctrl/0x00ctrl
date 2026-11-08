@@ -25,5 +25,3 @@
 
 [![barry0](https://www.hackthebox.eu/badge/image/1576035)](https://www.hackthebox.eu/home/users/profile/1576035)
 
-[![barry0 on Hack The Box](https://erebus.systems/tools/htb/badge/barry0.svg)](https://erebus.systems/tools/htb?u=barry0)
-
